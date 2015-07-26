@@ -1,7 +1,7 @@
 package controllers;
 
 import beans.CustomerOrderFacade;
-import classes.cart.Basket;
+import beans.Basket;
 import entities.CustomerOrder;
 import java.io.Serializable;
 import java.util.Date;
