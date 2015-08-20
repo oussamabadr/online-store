@@ -1,4 +1,2 @@
 # Online-Store
-Web application built on Java EE techologies such as EJB, JPA, JSF.
-
-
+Web application built on Java EE techologies - EJB, JPA and JSF.
